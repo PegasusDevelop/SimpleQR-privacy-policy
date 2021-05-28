@@ -13,6 +13,7 @@ Currently the App won't collect any personal information.
 In the future, the App may collect only necessary information for the purpose of maintanence. I guarantee to NOT collect or sell your personal information in any way. The app I built doesn't require any special permission to collect your personal information.
 
 The App dose use your phone 's Camera to recognize QR codes.
+The APP will access local image which being selected by user for analyzing.
 
 ## Log Data
 The App won't send any log data because I want to keep it extremely simple.
